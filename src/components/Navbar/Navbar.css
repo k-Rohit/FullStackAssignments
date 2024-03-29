@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: rgb(39, 38, 38);
+    display: flex;
+    height: 55px;
+    justify-content: space-between; /* Changed to space-between */
+    align-items: center;
+    padding: 0 10px; /* Added padding to create space between elements */
+}
+
+.img {
+    width: 30px;
+    margin-left: 90px; /* Adjusted width to match image width */
+}
+
+.navcomp {
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px; /* Adjust margin-right to reduce space between elements */
+}
+
+.navcomp a {
+    color: white; /* Set the color of links to white */
+    text-decoration: none; /* Remove underlines from links */
+}
+
+.navcomp .home {
+    margin-left: 1000px;
+}
+
+.navcomp .Signup {
+    margin-right: 120px;
+}

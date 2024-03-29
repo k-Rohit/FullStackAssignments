@@ -1,0 +1,37 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-section {
+    display: flex;
+    margin-top: 100px;
+}
+
+.hero-section .hero-image {
+    margin-left: 100px;
+    border-radius: 50%;
+    background-color: rgb(60, 59, 59);
+}
+
+.text-section{
+
+    margin-left: 200px;
+    margin-right: 100px;
+    
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 50px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.info {
+    font-size: 20px;
+    font-weight: 10;
+    font-style: italic;
+    border: 0.2px solid rgb(79, 78, 78);
+    padding: 15px;
+    border-radius: 8px;
+}
